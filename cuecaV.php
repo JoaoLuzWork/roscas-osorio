@@ -57,9 +57,9 @@
             $ovo =  ceil($farinha / 3);
             $margarina = ceil($farinha / 3);
             $leite = (round($farinha / 2 ,PHP_ROUND_HALF_UP));
-                $rendimento = round($farinha * 21.6666666667);
-                $preparo = ceil($rendimento / 3 + 7);
-                $cozimento = ceil(($rendimento / 3) + 12);
+            $rendimento = round($farinha * 21.6666666667);
+            $preparo = ceil($rendimento / 3 + 7);
+            $cozimento = ceil(($rendimento / 3) + 12);
 
     ?>
 
@@ -95,7 +95,7 @@
             <li> Junte em uma vasilha ou bacia os seguintes componetes: farinha, açucar, leite, sal, ovo, margarina, vinagre e fermento.</li>
             <li> Misture até que não gurde mais (se ainecessário, colocar mais farinha para não grudar).</li>
             <li> Em seguida abra a massa com um rolo em um superfície enfarinhada.</li>
-            <li> Corte as tirinhas do tamanho desejado(aconselhamos meio rolo de medida para o comprimento e o cabo de uma faca para a grossura).</li>
+            <li> Corte as tirinhas do tamanho desejado(aconselhamos uma palma de medida para o comprimento e metade do cabo de uma faca para a grossura).</li>
             <li> Faça um corte no meio e passa um das pontas por dentro do corte.</li>
             <li> Coloque em uma penala 1 litro de óleo.</li>
             <li> Espere o Óleo ferver e então coloque para fritar </li>
