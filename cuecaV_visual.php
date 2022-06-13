@@ -245,7 +245,7 @@
                     </div> 
                     &nbsp → &nbsp
                     <div class="imagem_pequena img_container">
-                        <img title="Dobrar" alt="dobrar" src="images/cuecaV/dobrar.PNG"></img>
+                        <img title="Dobrar" alt="dobra r" src="images/cuecaV/dobrar.PNG"></img>
                     </div> 
                 </li>
                 <br>
